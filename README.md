@@ -12,3 +12,4 @@ Endpoint: http://localhost:8080/helloworld
 
 Admin: http://localhost:8081/
 
+Teseted continuos integration on 29th Sep
